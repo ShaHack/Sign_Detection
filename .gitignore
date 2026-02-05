@@ -1,0 +1,6 @@
+__pycache__/
+*.joblib
+snapshots/
+detected_words/
+*.pyc
+.env
